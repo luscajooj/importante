@@ -167,5 +167,7 @@ footer.carta-fixa {
     button, .btn-musica {
         width: 90%;
         font-size: 14px;
+        display: block;
+        margin: 10px auto;
     }
 }
